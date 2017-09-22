@@ -1,0 +1,4 @@
+WeatherApp.Droid.MainActivity, WeatherApp.Android;md5a05fc8bb7c1e0b5459c5d0d5dd0b4568.MainActivity
+WeatherApp.Droid.MainActivity, WeatherApp.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a05fc8bb7c1e0b5459c5d0d5dd0b4568.MainActivity
+WeatherApp.Droid.MainActivity;md5a05fc8bb7c1e0b5459c5d0d5dd0b4568.MainActivity
+weatherapp.droid.MainActivity;md5a05fc8bb7c1e0b5459c5d0d5dd0b4568.MainActivity
